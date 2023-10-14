@@ -25,6 +25,14 @@
       "postId": 1
     }
   ],
+  
+  "auth": {
+    "rtu_id": "1234567890",
+    "access_token": "token",
+    "now": "ts-start",
+    "expired": "ts-expired"
+  },
+
   "profile": {
     "name": "typicode"
   }
