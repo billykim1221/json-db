@@ -1,2 +1,8 @@
 {
+    "auth" : {
+        "rtu_id": "1234567890",
+        "access_token" : "token",
+        "now": "time-format-start",
+        "expired": "time-format-end"
+    }
 }
